@@ -1,0 +1,17 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "https://www.typescriptlang.org/docs/handbook/intro.html - Superset do Javascript - Define tipagem estática - Implementação gradual - Impede erros  - Não necessariamente é verboso - Pega alguns casos \"erros\" que testes unitários eventualmente não pegam",
+  "main": "app.js",
+  "scripts": {
+    "compile": "tsc",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.4",
+    "lite-server": "^2.6.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
